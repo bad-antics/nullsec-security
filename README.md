@@ -1,6 +1,6 @@
 # nullsec-security
 
-Security hardening and audit tools
+Security Security and audit tools
 
 ## Part of NullSec Linux
 
