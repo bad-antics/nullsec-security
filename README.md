@@ -10,7 +10,7 @@ Security Features and audit tools
 ### Installation
 
 ```bash
-git clone https://github.com/nullsec-linux/nullsec-security.git
+git clone https://github.com/bad-antics/nullsec-security.git
 cd nullsec-security
 ./install.sh
 ```
@@ -21,9 +21,10 @@ Licensed under the NullSec Linux Public License v1.0
 
 ### Links
 
-- [NullSec Linux](https://github.com/nullsec-linux/nullsec-linux)
-- [Documentation](https://github.com/nullsec-linux/nullsec-docs)
-- [Windows Tools](https://github.com/nullsec-linux/nullsec-windows)
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux)
+- [Documentation](https://github.com/bad-antics/nullsec-docs)
+- [Windows Tools](https://github.com/bad-antics/nullsec-windows)
 
 ---
-*Security Through Transparency*
+[![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=flat&logo=github&logoColor=white)](https://github.com/bad-antics)
+[![Discord](https://img.shields.io/badge/Discord-killers-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/killers)
