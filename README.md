@@ -1,6 +1,6 @@
 # nullsec-security
 
-Security Security and audit tools
+Security Features and audit tools
 
 ## Part of NullSec Linux
 
